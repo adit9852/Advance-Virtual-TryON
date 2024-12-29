@@ -27,20 +27,23 @@ A high-resolution 2D virtual try-on system built using **HR-VITON**, **PoseNet**
 
 ---
 
-## **How to Run**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/adit9852/Advance-Virtual-TryON
 
-2. Install dependencies:
+## How to Run
 
-bash
+**1. Clone the repository:**
+
+```bash
+git clone [https://github.com/adit9852/Advance-Virtual-TryON](https://github.com/adit9852/Advance-Virtual-TryON)
+
+**2. Install dependencies:
+
+Bash
 
 pip install -r requirements.txt
+**3. Run the main script:
 
-3.Run the main script:
-
-bash
+Bash
 
 python main.py
+
