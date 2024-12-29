@@ -4,9 +4,15 @@
 A high-resolution 2D virtual try-on system built using **HR-VITON**, **PoseNet**, **PyTorch**, and more. This project provides an efficient pipeline for garment segmentation, pose estimation, and garment overlay to enable realistic virtual try-on experiences.
 
 ---
+## **PPT**
+[ADITYA_BTP.pptx](https://github.com/user-attachments/files/18268585/ADITYA_BTP.pptx)
 
+---
 ## **Model Showcase**
-*(Add images or examples of your try-on results here, e.g., side-by-side comparisons of original images and try-on outputs.)*
+![image](https://github.com/user-attachments/assets/d871a792-fcdb-49e2-b073-ba9069c3c706)
+
+
+
 
 ---
 
@@ -39,11 +45,10 @@ git clone https://github.com/adit9852/Advance-Virtual-TryON](https://github.com/
 2. Install dependencies:
 
 Bash
-
 pip install -r requirements.txt
+
 3. Run the main script:
 
 Bash
-
 python main.py
 
