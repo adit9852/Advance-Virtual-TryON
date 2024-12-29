@@ -35,12 +35,12 @@ A high-resolution 2D virtual try-on system built using **HR-VITON**, **PoseNet**
 
 2. Install dependencies:
 
-```bash
-Copy code
+bash
+
 pip install -r requirements.txt
 
 3.Run the main script:
 
 bash
-Copy code
+
 python main.py
